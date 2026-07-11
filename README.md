@@ -37,4 +37,3 @@ Chapters/   Quiz data
 ## Authors
 
 - Ifrah Laraib
-- (Your teammates, if any)
