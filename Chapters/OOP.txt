@@ -1,0 +1,38 @@
+Chapter: Object-Oriented Programming (OOP)
+Author: AI Learning Assistant
+=====================================================
+
+INTRODUCTION
+------------
+Object-Oriented Programming is a programming paradigm
+built around real-world "objects". Each object bundles
+data (attributes) and behavior (methods) together.
+
+THE 4 PILLARS OF OOP
+---------------------
+1. ENCAPSULATION
+   Wrapping data and functions inside a class.
+   Private members can only be accessed via getters/setters.
+   Example: score is private; use getScore() to read it.
+
+2. ABSTRACTION
+   Hiding complex details, showing only essentials.
+   Abstract classes use pure virtual functions.
+   Example: virtual void display() = 0;
+
+3. INHERITANCE
+   A derived class acquires properties of a base class.
+   Promotes code reuse and hierarchical relationships.
+   Example: class Student : public User {}
+
+4. POLYMORPHISM
+   One interface, many implementations.
+   Achieved via function overriding and virtual functions.
+   Example: display() behaves differently in each subclass.
+
+KEY CONCEPTS
+------------
+- Constructor: Special method called when object is created.
+- Destructor:  Cleans up when object is destroyed.
+- Composition: A class contains objects of another class.
+- Dynamic Binding: Function call resolved at runtime.

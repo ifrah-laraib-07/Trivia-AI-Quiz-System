@@ -1,0 +1,30 @@
+What is the Central Dogma of Molecular Biology?
+DNA to Protein directly
+DNA to RNA to Protein
+RNA to DNA to Protein
+Protein to RNA to DNA
+B
+What enzyme unwinds the DNA double helix during replication?
+Polymerase
+Ligase
+Helicase
+Primase
+C
+What is a mutation?
+A new protein being synthesized
+A change in the DNA sequence
+A type of cell division
+A form of gene expression
+B
+Where does transcription occur in eukaryotic cells?
+Ribosome
+Mitochondria
+Nucleus
+Cytoplasm
+C
+What reads the mRNA to synthesize a protein?
+Nucleus
+Helicase
+Ribosome
+Lysosome
+C

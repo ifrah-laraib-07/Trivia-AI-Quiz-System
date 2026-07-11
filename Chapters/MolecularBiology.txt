@@ -1,0 +1,33 @@
+Chapter: Molecular Biology
+Author: AI Learning Assistant
+=====================================================
+
+INTRODUCTION
+------------
+Molecular Biology studies the molecular basis of
+biological activity, especially DNA, RNA, and proteins.
+
+CENTRAL DOGMA
+-------------
+DNA -> RNA -> Protein
+1. Transcription: DNA is copied into mRNA in nucleus.
+2. Translation: mRNA is read by ribosome to make protein.
+
+DNA REPLICATION
+---------------
+- Occurs before cell division.
+- Helicase unwinds the double helix.
+- DNA Polymerase adds complementary bases.
+- Results in two identical daughter DNA strands.
+
+MUTATIONS
+---------
+A mutation is a change in the DNA sequence.
+Types: Point mutation, Insertion, Deletion, Inversion.
+Mutations can be harmless, harmful, or beneficial.
+
+GENE EXPRESSION
+---------------
+Not all genes are active at all times.
+Gene regulation controls which proteins are made.
+Promoters and repressors control gene expression.

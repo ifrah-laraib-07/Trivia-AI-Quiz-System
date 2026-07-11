@@ -1,0 +1,33 @@
+Chapter: Biochemistry Basics
+Author: AI Learning Assistant
+=====================================================
+
+INTRODUCTION
+------------
+Biochemistry is the study of chemical processes
+occurring within and relating to living organisms.
+It bridges biology and chemistry.
+
+BIOMOLECULES
+------------
+1. PROTEINS
+   Made of amino acids. Perform most cell functions.
+   Examples: enzymes, antibodies, structural proteins.
+
+2. CARBOHYDRATES
+   Primary energy source. Made of C, H, O.
+   Glucose = C6H12O6. Stored as glycogen in animals.
+
+3. LIPIDS
+   Fats, oils, waxes. Energy storage, membrane structure.
+   Hydrophobic - do not dissolve in water.
+
+4. NUCLEIC ACIDS
+   DNA and RNA. Store and transmit genetic information.
+   Monomers are nucleotides.
+
+ENZYMES
+-------
+Biological catalysts that speed up chemical reactions.
+Each enzyme is specific to one substrate (lock and key).
+Temperature and pH affect enzyme activity.

@@ -1,0 +1,31 @@
+Chapter: Introduction to Genetics
+Author: AI Learning Assistant
+=====================================================
+
+INTRODUCTION
+------------
+Genetics is the scientific study of genes, heredity,
+and variation in living organisms. It explains how
+traits are passed from parents to offspring.
+
+KEY TERMS
+---------
+DNA  - Deoxyribonucleic acid, the hereditary molecule.
+Gene - A segment of DNA that codes for a protein.
+Allele - Different forms of the same gene.
+Genome - The complete set of genes of an organism.
+
+MENDEL'S LAWS
+-------------
+1. Law of Segregation: Each trait is controlled by a
+   pair of alleles that separate during gamete formation.
+
+2. Law of Independent Assortment: Genes for different
+   traits are inherited independently of each other.
+
+DNA STRUCTURE
+-------------
+- Double helix shape, discovered by Watson and Crick.
+- Made of nucleotides: Adenine, Thymine, Guanine, Cytosine.
+- A pairs with T, G pairs with C.
+- Stores and transmits genetic information.

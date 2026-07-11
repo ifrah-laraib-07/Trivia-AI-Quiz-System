@@ -1,0 +1,37 @@
+Chapter: Data Structures
+Author: AI Learning Assistant
+=====================================================
+
+INTRODUCTION
+------------
+A data structure organizes and stores data efficiently
+so it can be accessed and modified effectively.
+
+TYPES OF DATA STRUCTURES
+-------------------------
+1. ARRAY
+   Fixed-size collection of same-type elements.
+   Access by index. O(1) access, O(n) search.
+
+2. LINKED LIST
+   Nodes connected by pointers. Dynamic size.
+   O(n) access, O(1) insert/delete at head.
+
+3. STACK
+   LIFO - Last In First Out.
+   Operations: push(), pop(), peek().
+   Example: Undo feature in text editors.
+
+4. QUEUE
+   FIFO - First In First Out.
+   Operations: enqueue(), dequeue().
+   Example: Printer job scheduling.
+
+5. BINARY TREE
+   Each node has at most 2 children.
+   Used in searching and sorting algorithms.
+
+COMPLEXITY
+----------
+Big-O notation measures algorithm efficiency.
+O(1) = Constant   O(n) = Linear   O(log n) = Logarithmic

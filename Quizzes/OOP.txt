@@ -1,0 +1,30 @@
+What does OOP stand for?
+Object-Oriented Programming
+Open Object Protocol
+Operational Output Processing
+Ordered Object Paradigm
+A
+Which OOP concept wraps data and functions together?
+Polymorphism
+Inheritance
+Encapsulation
+Abstraction
+C
+What does inheritance allow a subclass to do?
+Delete parent methods
+Acquire properties of a parent class
+Override all parent constructors
+Run faster than parent class
+B
+Which concept hides complex implementation details?
+Encapsulation
+Polymorphism
+Abstraction
+Inheritance
+C
+What is a pure virtual function used for?
+Deleting objects
+Creating abstract classes
+Allocating memory
+Overloading operators
+B

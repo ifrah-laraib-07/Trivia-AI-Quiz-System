@@ -1,0 +1,12 @@
+Which of the following is a Data Structure? 
+Array 
+Variable 
+Loop 
+Function 
+A 
+LIFO stands for? 
+Last In First Out 
+Late In First Out 
+Last In Final Out 
+List In File Out 
+A 
