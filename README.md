@@ -35,5 +35,4 @@ Chapters/   Quiz data
 3. Build and run the project.
 
 ## Authors
-
 - Ifrah Laraib
